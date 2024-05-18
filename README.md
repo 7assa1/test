@@ -1,2 +1,2 @@
 # test
-this is my first project in github
+this is my first project on GitHub
